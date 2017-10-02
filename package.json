@@ -1,0 +1,36 @@
+{
+  "name": "sigfig-homework-20170930",
+  "version": "1.0.0",
+  "description": "My solution to the take-home question for the SigFig interview process.",
+  "main": "src/main.js",
+  "homepage": "https://github.com/tom-weatherhead/sigfig-homework-20170930#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tom-weatherhead/sigfig-homework-20170930.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tom-weatherhead/sigfig-homework-20170930/issues"
+  },
+  "scripts": {
+    "lint": "grunt eslint",
+    "mocha": "grunt mochaTest",
+    "nsp": "grunt nsp",
+    "test": "grunt"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "grunt": "^1.0.1",
+    "grunt-eslint": "^20.1.0",
+    "grunt-mocha-test": "^0.13.2",
+    "grunt-nsp": "^2.3.1",
+    "mocha": "^3.5.3"
+  },
+  "keywords": [
+    "SigFig"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Tom Weatherhead",
+    "url": "https://github.com/tom-weatherhead"
+  }
+}
