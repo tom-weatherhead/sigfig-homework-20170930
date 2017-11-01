@@ -1,4 +1,7 @@
 # sigfig-homework-20170930
+
+[![build status](https://secure.travis-ci.org/tom-weatherhead/sigfig-homework-20170930.svg)](http://travis-ci.org/tom-weatherhead/sigfig-homework-20170930)
+
 My solution to the take-home question for the SigFig interview process.
 
 Git installation and testing instructions for sigfig-homework-20170930:
